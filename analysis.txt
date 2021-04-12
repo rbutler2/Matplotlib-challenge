@@ -1,0 +1,6 @@
+Observation 1
+The first observation that can be made is that when looking at the drug Capomulin as the weight of the mouse increased so did the tumor volume. This can be seen by the last two plots in the notebook.
+Observation 2
+The second observation that can be made is that the Capomulin drug seems to be effective. This can be seen by the line plot as Timepoint increased Tumor Volume decreased. 
+Observation 3
+We third observation is that when looking at the four most promising drugs we see that the data is very reliable as there is only one outlier. This can be seen by the single red diamond on the box chart. 
